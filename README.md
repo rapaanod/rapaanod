@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, html, css, python, javascript
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email rucheleanndpaanod@iskolarngbayan@pup.edu.ph
+- 📫 How to reach me email rucheleanndpaanod@iskolarngbayan.pup.edu.ph
 - 😄 Pronouns: she
 - ⚡ Fun fact: 19 years old
 
